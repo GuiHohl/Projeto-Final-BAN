@@ -1,0 +1,22 @@
+[
+  { "_id": "4000", "idCategoria": "2002", "nome": "Coca-Cola 350ml", "descricao": "Refrigerante gelado, perfeito para acompanhar sua refeição.", "preco": 18.99 },
+  { "_id": "4001", "idCategoria": "2002", "nome": "Suco Natural de Laranja", "descricao": "Suco fresco e natural, sem adição de açúcar.", "preco": 11.99 },
+  { "_id": "4002", "idCategoria": "2002", "nome": "Água com Gás", "descricao": "Água mineral gaseificada gelada.", "preco": 11.99 },
+  { "_id": "4003", "idCategoria": "2000", "nome": "X-Burguer", "descricao": "Pão, hambúrguer bovino e queijo prato.", "preco": 6.99 },
+  { "_id": "4004", "idCategoria": "2001", "nome": "Brownie com Sorvete", "descricao": "Brownie de chocolate com sorvete de creme.", "preco": 22.99 },
+  { "_id": "4005", "idCategoria": "2001", "nome": "Pudim de Leite", "descricao": "Clássico pudim de leite condensado com calda de caramelo.", "preco": 5.99 },
+  { "_id": "4006", "idCategoria": "2001", "nome": "Torta de Limão", "descricao": "Torta cremosa com base crocante e cobertura de merengue.", "preco": 17.99 },
+  { "_id": "4007", "idCategoria": "2000", "nome": "X-Salada", "descricao": "Pão, hambúrguer, queijo, alface, tomate e maionese.", "preco": 6.99 },
+  { "_id": "4008", "idCategoria": "2000", "nome": "X-Bacon", "descricao": "Hambúrguer com queijo e bacon crocante.", "preco": 27.99 },
+  { "_id": "4009", "idCategoria": "2000", "nome": "Cheeseburguer Duplo", "descricao": "Dois hambúrgueres com queijo e molho especial.", "preco": 17.99 },
+  { "_id": "4010", "idCategoria": "2000", "nome": "Hot Dog Tradicional", "descricao": "Pão, salsicha, molho de tomate, batata palha.", "preco": 6.99 },
+  { "_id": "4011", "idCategoria": "2002", "nome": "Guaraná Antarctica 350ml", "descricao": "Refrigerante brasileiro de guaraná, gelado.", "preco": 9.99 },
+  { "_id": "4012", "idCategoria": "2002", "nome": "Chá Gelado de Pêssego", "descricao": "Bebida refrescante com sabor de pêssego.", "preco": 16.99 },
+  { "_id": "4013", "idCategoria": "2001", "nome": "Petit Gâteau", "descricao": "Bolo quente de chocolate com recheio cremoso e sorvete.", "preco": 29.99 },
+  { "_id": "4014", "idCategoria": "2002", "nome": "Suco de Maracujá", "descricao": "Suco natural concentrado de maracujá gelado.", "preco": 26.99 },
+  { "_id": "4015", "idCategoria": "2001", "nome": "Mousse de Maracujá", "descricao": "Sobremesa leve e cremosa com sabor tropical.", "preco": 8.99 },
+  { "_id": "4016", "idCategoria": "2001", "nome": "Sorvete de Chocolate", "descricao": "Porção generosa de sorvete artesanal de chocolate.", "preco": 7.99 },
+  { "_id": "4017", "idCategoria": "2000", "nome": "Batata Frita Pequena", "descricao": "Porção de batata frita crocante.", "preco": 6.99 },
+  { "_id": "4018", "idCategoria": "2000", "nome": "Batata Frita com Cheddar e Bacon", "descricao": "Batatas cobertas com cheddar cremoso e bacon crocante.", "preco": 6.99 },
+  { "_id": "4019", "idCategoria": "2000", "nome": "Frango Empanado", "descricao": "Iscas crocantes de frango empanado.", "preco": 27.99 }
+]

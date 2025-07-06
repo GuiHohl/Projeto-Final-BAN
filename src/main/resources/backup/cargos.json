@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "1000",
+    "nome": "Garçom"
+  },
+  {
+    "_id": "1001",
+    "nome": "Cozinheiro"
+  },
+  {
+    "_id": "1002",
+    "nome": "Gerente"
+  },
+  {
+    "_id": "1003",
+    "nome": "Caixa"
+  }
+]

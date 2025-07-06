@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "5000",
+    "nome": "Augusto Azevedo",
+    "idCargo": "1003"
+  },
+  {
+    "_id": "5001",
+    "nome": "Nicolas da Costa",
+    "idCargo": "1000"
+  },
+  {
+    "_id": "5002",
+    "nome": "Ana Julia Novaes",
+    "idCargo": "1000"
+  },
+  {
+    "_id": "5003",
+    "nome": "Maitê Ferreira",
+    "idCargo": "1003"
+  },
+  {
+    "_id": "5004",
+    "nome": "Kamilly da Rosa",
+    "idCargo": "1002"
+  },
+  {
+    "_id": "5005",
+    "nome": "Maria Julia Costela",
+    "idCargo": "1002"
+  },
+  {
+    "_id": "5006",
+    "nome": "Agatha Campos",
+    "idCargo": "1000"
+  },
+  {
+    "_id": "5007",
+    "nome": "Heloísa Moreira",
+    "idCargo": "1003"
+  },
+  {
+    "_id": "5008",
+    "nome": "Pedro Miguel Lopes",
+    "idCargo": "1000"
+  },
+  {
+    "_id": "5009",
+    "nome": "Nicole Castro",
+    "idCargo": "1003"
+  }
+]

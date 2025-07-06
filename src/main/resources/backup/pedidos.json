@@ -1,0 +1,1331 @@
+[
+  {
+    "_id": "08fe2dc7-f494-4bbe-af1e-87baabfe98fc",
+    "idComanda": "6000",
+    "dataPedido": {
+      "$date": "2025-06-25T21:44:35Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4015",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4006",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4009",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "8a243300-514a-4bab-b612-7a36c41f98fd",
+    "idComanda": "6000",
+    "dataPedido": {
+      "$date": "2025-06-25T22:32:35Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4004",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3004",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "4014fe1e-c274-40f6-bf7e-dc8b0db1c865",
+    "idComanda": "6000",
+    "dataPedido": {
+      "$date": "2025-06-25T22:04:35Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4016",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4001",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4006",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "63ddce4c-d780-49f5-8274-7101e0754b5c",
+    "idComanda": "6000",
+    "dataPedido": {
+      "$date": "2025-06-25T23:08:35Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4015",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4011",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4002",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "7225de03-d2ed-408f-a739-d8476644e15b",
+    "idComanda": "6000",
+    "dataPedido": {
+      "$date": "2025-06-25T22:09:35Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4011",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4000",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "a4c18cd4-20cc-47d8-bce4-61030c90f214",
+    "idComanda": "6001",
+    "dataPedido": {
+      "$date": "2025-06-10T12:54:57Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3005",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "7c15857d-7f50-495f-b6da-45ac0906cdfc",
+    "idComanda": "6001",
+    "dataPedido": {
+      "$date": "2025-06-10T12:08:57Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4009",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3000",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4005",
+        "adicionais": [
+          {
+            "idAdicional": "3000",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "3ef642b0-3782-4509-9a3e-ac469eb1b3af",
+    "idComanda": "6002",
+    "dataPedido": {
+      "$date": "2025-06-09T18:10:38Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4006",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4004",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "928faecb-56b4-433a-95d3-4b0b340d4887",
+    "idComanda": "6002",
+    "dataPedido": {
+      "$date": "2025-06-09T18:13:38Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4013",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3000",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "e293e454-c08b-4c3a-b701-dc3f9ea06824",
+    "idComanda": "6003",
+    "dataPedido": {
+      "$date": "2025-06-18T19:39:39Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4011",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4007",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "51316b69-09a7-46e0-aedc-e3ce04561adb",
+    "idComanda": "6003",
+    "dataPedido": {
+      "$date": "2025-06-18T20:12:39Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3004",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4013",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3000",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4017",
+        "adicionais": [
+          {
+            "idAdicional": "3005",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "400787dc-574c-4ab0-85a1-e0b04d1018f1",
+    "idComanda": "6003",
+    "dataPedido": {
+      "$date": "2025-06-18T20:41:39Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4000",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4011",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4006",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "cd068143-8787-45d7-a6af-0fea60f7be2c",
+    "idComanda": "6003",
+    "dataPedido": {
+      "$date": "2025-06-18T20:56:39Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4004",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4014",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 3
+          }
+        ]
+      },
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "aa398294-1b1e-40db-a8c2-9d8a30ae5204",
+    "idComanda": "6003",
+    "dataPedido": {
+      "$date": "2025-06-18T20:15:39Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4013",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "08889e09-5fd8-46e7-95df-04524d011f1d",
+    "idComanda": "6004",
+    "dataPedido": {
+      "$date": "2025-07-01T16:48:06Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4016",
+        "adicionais": [
+          {
+            "idAdicional": "3004",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5feef826-9a8b-4381-b855-55c912702ee4",
+    "idComanda": "6004",
+    "dataPedido": {
+      "$date": "2025-07-01T17:07:06Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4015",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3003",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4014",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4006",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "daed5643-dccb-4d38-aee1-8795da641185",
+    "idComanda": "6004",
+    "dataPedido": {
+      "$date": "2025-07-01T16:49:06Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3004",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "abd7ce11-c1de-49af-888e-9fdcdf91cf72",
+    "idComanda": "6005",
+    "dataPedido": {
+      "$date": "2025-06-17T07:24:59Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4017",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "fc983372-9bdd-4b31-aa8b-b3d56ca1cebc",
+    "idComanda": "6005",
+    "dataPedido": {
+      "$date": "2025-06-17T06:44:59Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4019",
+        "adicionais": [
+          {
+            "idAdicional": "3006",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4003",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "3c7809ff-0124-48e8-ae35-0283d9128919",
+    "idComanda": "6006",
+    "dataPedido": {
+      "$date": "2025-06-10T13:44:49Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4016",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4000",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4017",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "9e7fe9b7-59df-40f5-b826-72b1ba10699c",
+    "idComanda": "6006",
+    "dataPedido": {
+      "$date": "2025-06-10T14:58:49Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4004",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4002",
+        "adicionais": [
+          {
+            "idAdicional": "3000",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3005",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "0c4d1c4a-bb6d-41e7-8d26-c9725f3155af",
+    "idComanda": "6006",
+    "dataPedido": {
+      "$date": "2025-06-10T13:40:49Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4013",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4016",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "00340c43-29af-42b2-a515-9c748bccf517",
+    "idComanda": "6006",
+    "dataPedido": {
+      "$date": "2025-06-10T14:23:49Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4004",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "584ef78a-d0a4-46df-aa0f-4851404270b3",
+    "idComanda": "6007",
+    "dataPedido": {
+      "$date": "2025-07-03T07:13:58Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4010",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4007",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 3
+          },
+          {
+            "idAdicional": "3009",
+            "quantidade": 3
+          }
+        ]
+      },
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "12bf7f4c-eb8b-47da-9870-78058be150f5",
+    "idComanda": "6007",
+    "dataPedido": {
+      "$date": "2025-07-03T08:25:58Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4017",
+        "adicionais": [
+          {
+            "idAdicional": "3005",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3000",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4001",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 3
+          },
+          {
+            "idAdicional": "3004",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4011",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "806e4661-0448-45f7-806c-7e4fc71af019",
+    "idComanda": "6007",
+    "dataPedido": {
+      "$date": "2025-07-03T07:26:58Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4017",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "ab281649-c2eb-434b-bf44-71cb246c324b",
+    "idComanda": "6008",
+    "dataPedido": {
+      "$date": "2025-06-09T04:21:55Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4004",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4013",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "d88af111-6eec-404c-9427-37630814a1c9",
+    "idComanda": "6008",
+    "dataPedido": {
+      "$date": "2025-06-09T05:02:55Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4019",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4011",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "a7ba0601-f097-46f3-8d57-5f61a0f0af21",
+    "idComanda": "6008",
+    "dataPedido": {
+      "$date": "2025-06-09T05:10:55Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4016",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "34528ad5-9832-4064-b471-8517d03a061a",
+    "idComanda": "6008",
+    "dataPedido": {
+      "$date": "2025-06-09T05:00:55Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4007",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3005",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4009",
+        "adicionais": [
+          {
+            "idAdicional": "3004",
+            "quantidade": 3
+          }
+        ]
+      },
+      {
+        "idProduto": "4007",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "3269ea0a-5c81-46d4-829f-88efd653a0e0",
+    "idComanda": "6009",
+    "dataPedido": {
+      "$date": "2025-07-05T21:26:58Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4015",
+        "adicionais": [
+          {
+            "idAdicional": "3000",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "a95b4171-04ea-4056-9997-41e877947c11",
+    "idComanda": "6009",
+    "dataPedido": {
+      "$date": "2025-07-05T21:51:58Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4004",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 3
+          },
+          {
+            "idAdicional": "3003",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "ab6241c1-a951-4751-b1b0-761fb61a5ad5",
+    "idComanda": "6009",
+    "dataPedido": {
+      "$date": "2025-07-05T21:37:58Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4010",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4001",
+        "adicionais": [
+          {
+            "idAdicional": "3004",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "35ec0720-00e8-4ef0-bfba-f2e5364e3a9d",
+    "idComanda": "6010",
+    "dataPedido": {
+      "$date": "2025-06-06T17:24:19Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4017",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "20cd1e61-394b-44d8-89ff-2bc881094dc4",
+    "idComanda": "6010",
+    "dataPedido": {
+      "$date": "2025-06-06T17:46:19Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4011",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3007",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4019",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "b8749163-96d9-4140-b9ae-bf45e029cc9d",
+    "idComanda": "6010",
+    "dataPedido": {
+      "$date": "2025-06-06T16:39:19Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4006",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4004",
+        "adicionais": [
+          {
+            "idAdicional": "3004",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4018",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "c26ffc3c-66af-4587-8cb5-02f27154ee3a",
+    "idComanda": "6010",
+    "dataPedido": {
+      "$date": "2025-06-06T16:54:19Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4008",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4003",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "e52e568f-e439-4d90-8949-17a3afff26dc",
+    "idComanda": "6010",
+    "dataPedido": {
+      "$date": "2025-06-06T17:32:19Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4010",
+        "adicionais": [
+          {
+            "idAdicional": "3005",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "b6c0445b-8ceb-4c57-b187-dba3ed89e5f7",
+    "idComanda": "6011",
+    "dataPedido": {
+      "$date": "2025-06-26T22:20:24Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4017",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3009",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4005",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "65bbd5eb-c66e-443a-886c-82081bfce93d",
+    "idComanda": "6011",
+    "dataPedido": {
+      "$date": "2025-06-26T22:27:24Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4016",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "3e24d08c-5f86-4fa2-a180-c536b2b38768",
+    "idComanda": "6012",
+    "dataPedido": {
+      "$date": "2025-06-07T21:39:50Z"
+    },
+    "status": "PRONTO",
+    "produtos": [
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4016",
+        "adicionais": [
+          {
+            "idAdicional": "3007",
+            "quantidade": 3
+          },
+          {
+            "idAdicional": "3005",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "d785c844-42a8-4fc9-9772-e27f79396957",
+    "idComanda": "6012",
+    "dataPedido": {
+      "$date": "2025-06-07T21:56:50Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4012",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4014",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "f21561ed-180a-4827-bb0a-79057067cb68",
+    "idComanda": "6012",
+    "dataPedido": {
+      "$date": "2025-06-07T21:11:50Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4007",
+        "adicionais": [
+          {
+            "idAdicional": "3000",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4000",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4010",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 1
+          },
+          {
+            "idAdicional": "3000",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "66ae0e8e-afda-4989-9871-e55c0540dbda",
+    "idComanda": "6012",
+    "dataPedido": {
+      "$date": "2025-06-07T21:05:50Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4018",
+        "adicionais": []
+      }
+    ]
+  },
+  {
+    "_id": "63db3a63-e31a-42b1-9231-96d2373911c1",
+    "idComanda": "6013",
+    "dataPedido": {
+      "$date": "2025-06-14T16:55:20Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4001",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4019",
+        "adicionais": [
+          {
+            "idAdicional": "3002",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4000",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "d5035818-1a62-4a0b-9771-337f78a919a2",
+    "idComanda": "6013",
+    "dataPedido": {
+      "$date": "2025-06-14T17:06:20Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4017",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4012",
+        "adicionais": [
+          {
+            "idAdicional": "3009",
+            "quantidade": 2
+          },
+          {
+            "idAdicional": "3006",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "2287f703-2306-43b1-b9f2-2f7eaa185b72",
+    "idComanda": "6014",
+    "dataPedido": {
+      "$date": "2025-06-19T08:51:59Z"
+    },
+    "status": "EM_PREPARO",
+    "produtos": [
+      {
+        "idProduto": "4002",
+        "adicionais": []
+      },
+      {
+        "idProduto": "4004",
+        "adicionais": [
+          {
+            "idAdicional": "3000",
+            "quantidade": 3
+          },
+          {
+            "idAdicional": "3006",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "idProduto": "4018",
+        "adicionais": [
+          {
+            "idAdicional": "3003",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "30b43ac2-df3b-4929-80dd-33a255126d9e",
+    "idComanda": "6014",
+    "dataPedido": {
+      "$date": "2025-06-19T07:58:59Z"
+    },
+    "status": "ENTREGUE",
+    "produtos": [
+      {
+        "idProduto": "4001",
+        "adicionais": [
+          {
+            "idAdicional": "3005",
+            "quantidade": 3
+          },
+          {
+            "idAdicional": "3004",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "fd9c481e-0041-4d4a-8ed5-8588aa41b77e",
+    "idComanda": "6014",
+    "dataPedido": {
+      "$date": "2025-06-19T08:06:59Z"
+    },
+    "status": "PENDENTE",
+    "produtos": [
+      {
+        "idProduto": "4015",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          }
+        ]
+      },
+      {
+        "idProduto": "4013",
+        "adicionais": [
+          {
+            "idAdicional": "3008",
+            "quantidade": 3
+          }
+        ]
+      },
+      {
+        "idProduto": "4019",
+        "adicionais": [
+          {
+            "idAdicional": "3001",
+            "quantidade": 2
+          }
+        ]
+      }
+    ]
+  }
+]

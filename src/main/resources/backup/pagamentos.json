@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "125d49f3-e9f0-4a57-98b3-c25794c977f1",
+    "idComanda": "6001",
+    "valor": 78.67,
+    "metodoPagamento": "PIX",
+    "dataPagamento": { "$date": "2025-06-10T13:53:57Z" }
+  },
+  {
+    "_id": "70082f28-9b7e-48b1-a394-8fc5bc87dd5f",
+    "idComanda": "6003",
+    "valor": 268.52,
+    "metodoPagamento": "CARTAO",
+    "dataPagamento": { "$date": "2025-06-18T21:32:39Z" }
+  },
+  {
+    "_id": "f30c05d1-b305-409c-8199-e7ad5466395f",
+    "idComanda": "6005",
+    "valor": 48.39,
+    "metodoPagamento": "DINHEIRO",
+    "dataPagamento": { "$date": "2025-06-17T08:35:59Z" }
+  },
+  {
+    "_id": "9748ba27-6e65-493e-9ae1-7cde4f1b3d07",
+    "idComanda": "6007",
+    "valor": 110.4,
+    "metodoPagamento": "PIX",
+    "dataPagamento": { "$date": "2025-07-03T08:59:58Z" }
+  },
+  {
+    "_id": "c76e4d01-bc65-4b2f-a402-2f79b6fe5abb",
+    "idComanda": "6008",
+    "valor": 181.05,
+    "metodoPagamento": "CARTAO",
+    "dataPagamento": { "$date": "2025-06-09T05:50:55Z" }
+  },
+  {
+    "_id": "dc7d7b5a-f8e4-4d00-ab33-146e89c506b7",
+    "idComanda": "6012",
+    "valor": 129.23,
+    "metodoPagamento": "CARTAO",
+    "dataPagamento": { "$date": "2025-06-07T22:33:50Z" }
+  }
+]

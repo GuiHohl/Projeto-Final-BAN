@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "3000",
+    "nome": "Bacon Crocante",
+    "preco": 2.99
+  },
+  {
+    "_id": "3001",
+    "nome": "Cheddar Extra",
+    "preco": 2.20
+  },
+  {
+    "_id": "3002",
+    "nome": "Molho Barbecue",
+    "preco": 3.50
+  },
+  {
+    "_id": "3003",
+    "nome": "Catupiry",
+    "preco": 1.99
+  },
+  {
+    "_id": "3004",
+    "nome": "Cebola Caramelizada",
+    "preco": 3.50
+  },
+  {
+    "_id": "3005",
+    "nome": "Tomate Seco",
+    "preco": 4.20
+  },
+  {
+    "_id": "3006",
+    "nome": "Alho Frito",
+    "preco": 3.99
+  },
+  {
+    "_id": "3007",
+    "nome": "Gorgonzola",
+    "preco": 2.29
+  },
+  {
+    "_id": "3008",
+    "nome": "Picles",
+    "preco": 1.95
+  },
+  {
+    "_id": "3009",
+    "nome": "Ovo Frito",
+    "preco": 3.50
+  }
+]
