@@ -52,6 +52,7 @@ public class PedidoService {
             ComandaModel comandaSelecionada = abertas.get(escolha - 1);
 
             PedidoModel pedido = new PedidoModel();
+            pedido.setId(UUID.randomUUID().toString());
             pedido.setIdComanda(comandaSelecionada.getId());
             pedido.setDataPedido(new Date());
             pedido.setStatus(StatusPedido.EM_PREPARO);
@@ -179,9 +180,10 @@ public class PedidoService {
             System.out.println("Selecione o pedido para alterar o status:");
             for (int i = 0; i < lista.size(); i++) {
                 PedidoModel p = lista.get(i);
-                System.out.printf("%d - Pedido #%s | Status atual: %s%n", i + 1, p.getId(), p.getStatus().name());
+                System.out.printf("%d - Pedido #%s | Status atual: %s%n", i + 1, p.getId(), p.getStatus());
             }
 
+            System.out.print("Digite o número: ");
             int escolha = Integer.parseInt(scanner.nextLine());
             if (escolha < 1 || escolha > lista.size()) {
                 System.out.println("Opção inválida.");
@@ -190,15 +192,20 @@ public class PedidoService {
 
             PedidoModel pedido = lista.get(escolha - 1);
 
-            System.out.println("Novo status (EM_PREPARO, PRONTO, ENTREGUE): ");
-            String novoStatus = scanner.nextLine().trim().toUpperCase();
+            System.out.println("Selecione o novo status:");
+            StatusPedido[] statusList = StatusPedido.values();
+            for (int i = 0; i < statusList.length; i++) {
+                System.out.printf("%d - %s%n", i + 1, statusList[i].name());
+            }
 
-            try {
-                pedido.setStatus(StatusPedido.valueOf(novoStatus));
-            } catch (IllegalArgumentException e) {
+            System.out.print("Digite o número correspondente: ");
+            int statusEscolhido = Integer.parseInt(scanner.nextLine());
+            if (statusEscolhido < 1 || statusEscolhido > statusList.length) {
                 System.out.println("Status inválido.");
                 return;
             }
+
+            pedido.setStatus(statusList[statusEscolhido - 1]);
 
             pedidoDAO.update(pedido);
             System.out.println("Status atualizado com sucesso.");

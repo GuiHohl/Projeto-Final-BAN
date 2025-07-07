@@ -27,7 +27,7 @@ public class AdicionalService {
             BigDecimal preco = new BigDecimal(scanner.nextLine());
 
             AdicionalModel adicional = new AdicionalModel();
-            adicional.setId(UUID.randomUUID().toString()); // gerar ID como String
+            adicional.setId(UUID.randomUUID().toString());
             adicional.setNome(nome);
             adicional.setPreco(preco);
 

@@ -66,18 +66,23 @@ public class PagamentoService {
             System.out.print("Valor do pagamento: ");
             BigDecimal valor = new BigDecimal(scanner.nextLine());
 
-            System.out.print("Método de pagamento (DINHEIRO, CARTAO, PIX): ");
-            String metodoStr = scanner.nextLine().toUpperCase();
+            System.out.println("Selecione o método de pagamento:");
+            MetodoPagamento[] metodos = MetodoPagamento.values();
+            for (int i = 0; i < metodos.length; i++) {
+                System.out.printf("%d - %s%n", i + 1, metodos[i].name());
+            }
 
-            MetodoPagamento metodo;
-            try {
-                metodo = MetodoPagamento.valueOf(metodoStr);
-            } catch (IllegalArgumentException e) {
+            System.out.print("Digite o número correspondente: ");
+            int metodoEscolhido = Integer.parseInt(scanner.nextLine());
+            if (metodoEscolhido < 1 || metodoEscolhido > metodos.length) {
                 System.out.println("Método de pagamento inválido.");
                 return;
             }
 
+            MetodoPagamento metodo = metodos[metodoEscolhido - 1];
+
             PagamentoModel pagamento = new PagamentoModel();
+            pagamento.setId(UUID.randomUUID().toString());
             pagamento.setIdComanda(comanda.getId());
             pagamento.setValor(valor);
             pagamento.setMetodoPagamento(metodo);
@@ -95,6 +100,7 @@ public class PagamentoService {
             e.printStackTrace();
         }
     }
+
 
     private BigDecimal calcularTotalComanda(String idComanda) throws Exception {
         BigDecimal total = BigDecimal.ZERO;

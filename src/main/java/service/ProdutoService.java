@@ -9,6 +9,7 @@ import org.bson.types.ObjectId;
 import java.math.BigDecimal;
 import java.util.List;
 import java.util.Scanner;
+import java.util.UUID;
 
 public class ProdutoService {
 
@@ -36,6 +37,7 @@ public class ProdutoService {
             if (categoria == null) return;
 
             ProdutoModel produto = new ProdutoModel();
+            produto.setId(UUID.randomUUID().toString());
             produto.setNome(nome);
             produto.setDescricao(descricao);
             produto.setPreco(preco);
